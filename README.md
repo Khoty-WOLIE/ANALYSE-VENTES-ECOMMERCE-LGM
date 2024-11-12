@@ -12,6 +12,10 @@ En tant que Data Analyst dans l'équipe Marketing de LGM, mon rôle est de fourn
 1. **Rapport Mensuel des Actions Marketing** : Analyser les données de ventes et préparer une présentation concise et claire pour la direction, mettant en avant les évolutions récentes et expliquant toute baisse du chiffre d'affaires.
 2. **Analyse des Données de Clients Affiliés** : Fournir une analyse des données clients pour le mois en cours, en créant un tableau de bord Excel complet avec des graphiques permettant d'observer les tendances et les comportements d'achat.
 
+## Aperçu de l'entreprise
+
+![Aperçu du site web](images/Capture_projet2.PNG)
+
 ## Étapes du Projet
 
 ### Étape 1 : Préparation du Rapport Marketing Mensuel
