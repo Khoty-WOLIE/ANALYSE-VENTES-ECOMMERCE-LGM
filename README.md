@@ -1,55 +1,66 @@
-# OPC_DATA_ANALYST_PROJET2
-Faites une analyse des ventes pour un e-commerce
+# ANALYSE-VENTES-ECOMMERCE-LGM
 
 ## Aperçu de l'entreprise
 
 ![Aperçu du site web](images/Capture_projet2.PNG)
 
-## Contexte
+## 📌 Contexte professionnel
 
-Ce projet fait partie de ma formation en tant que Data Analyst. Il a été réalisé pour **Le Grand Marché** (LGM), une entreprise de grande distribution opérant dans divers secteurs (nourriture, biens de consommation, etc.), avec une offre de livraison à domicile pour les commandes effectuées en ligne.
+Ce projet a été réalisé dans le cadre d’une mission pour **Le Grand Marché (LGM)**, une entreprise de grande distribution spécialisée dans la vente en ligne de produits alimentaires et de biens de consommation.  
+En tant que **Data Analyst** intégré à l’équipe Marketing, j’étais chargé de produire des analyses mensuelles des performances commerciales et de fournir un tableau de bord pour le suivi des clients affiliés.
 
-En tant que Data Analyst dans l'équipe Marketing de LGM, mon rôle est de fournir des analyses mensuelles pour guider les décisions marketing et d'aider mes collègues à interpréter les données clés de l'entreprise. Mon travail consiste à présenter les chiffres clés des ventes et à analyser les comportements d'achat des clients.
+## 🎯 Objectifs de la mission
 
-## Objectifs du Projet
+- Fournir un **rapport marketing mensuel** clair et synthétique pour la direction
+- Mettre en place un **tableau de bord Excel** dynamique permettant d’analyser le comportement des clients affiliés
+- Vulgariser les données pour une **audience non technique**
 
-1. **Rapport Mensuel des Actions Marketing** : Analyser les données de ventes et préparer une présentation concise et claire pour la direction, mettant en avant les évolutions récentes et expliquant toute baisse du chiffre d'affaires.
-2. **Analyse des Données de Clients Affiliés** : Fournir une analyse des données clients pour le mois en cours, en créant un tableau de bord Excel complet avec des graphiques permettant d'observer les tendances et les comportements d'achat.
+## 🧩 Détails des réalisations
 
-## Étapes du Projet
+### 1. Rapport mensuel des performances marketing
 
-### Étape 1 : Préparation du Rapport Marketing Mensuel
+- Analyse des ventes par catégorie
+- Calcul du **panier moyen**
+- Suivi des KPI : chiffre d’affaires, nombre d’achats, ratio achats/visites, nombre de visites, durée moyenne des sessions
+- Projection des ventes à moyen terme
+- Création de **5 graphiques clés** (1 par slide) pour faciliter la prise de décision
 
-Ce rapport a pour but de :
-- **Présenter les données clés** sous forme de graphiques, notamment :
-  - Proportion des ventes par catégorie de produit
-  - Montant moyen des achats clients (panier moyen)
-  - Évolutions du chiffre d'affaires, du nombre d'achats, du ratio (achats/visites), du nombre de visites sur le site web et du temps passé par les visiteurs
-  - Projection de l'évolution du chiffre d'affaires dans les mois à venir
-- **Adapter les analyses** pour être compréhensibles par des non-initiés en data.
-  
-> **Directives de Frédéric, Directeur Marketing** : Utiliser cinq graphiques pour résumer ces données de manière concise, avec un graphique par diapositive dans la présentation finale. Le but est de fournir une analyse rapide et efficace en seulement cinq diapositives.
+> Présentation pensée pour une lecture rapide et une compréhension par des profils non techniques.
 
-### Étape 2 : Analyse des Données de Clients Affiliés
+### 2. Tableau de bord clients affiliés (Excel)
 
-Pauline, du pôle Marketing, a besoin d'un tableau de bord mis à jour pour les clients affiliés, incluant :
-- **Mise à jour des données** pour le mois de février
-- Création de **quatre graphiques** dans la feuille de tableau de bord
-- Un tableau résumant pour chaque client le nombre d’achats et le chiffre d'affaires, avec les totaux
+- Nettoyage et intégration des données mensuelles (février)
+- Visualisation des tendances d’achat à travers 4 graphiques dynamiques
+- Tableau récapitulatif : nombre d’achats et chiffre d’affaires par client
+- Intégration de **formules Excel documentées** pour mise à jour autonome par l’équipe marketing
 
-Pauline souhaite que les formules dans le fichier Excel soient conservées pour faciliter les mises à jour futures, et elle aimerait une explication sur leur fonctionnement.
+## 🛠️ Compétences mobilisées
 
-## Détails Techniques
+- Analyse exploratoire et descriptive
+- Data visualisation (Excel, PowerPoint)
+- Création de dashboards dynamiques
+- Communication de données à un public non technique
+- Collaboration inter-équipes (Marketing & Data)
 
-- **Fichiers** : 
-  - **PDF** : Rapport de synthèse pour la présentation
-  - **PowerPoint** : Présentation des graphiques principaux pour la réunion de fin de semaine
-  - **Excel** : Tableau de bord des clients affiliés avec formules et graphiques intégrés
-- **Compétences Utilisées** :
-  - Analyse de données quantitatives
-  - Création de tableaux de bord Excel avec formules et graphiques
-  - Communication de données pour une audience non technique
+## 📂 Livrables
 
-## Résumé
+- **PDF** : Rapport de synthèse pour la direction
+- **PowerPoint** : Présentation visuelle des KPI
+- **Excel** : Tableau de bord interactif avec graphiques et formules
 
-Ce projet m'a permis d'appliquer mes compétences en **analyse de données** pour fournir des insights stratégiques à une équipe marketing. Le processus consistait à structurer et présenter les données de manière claire et concise, en adaptant les analyses aux besoins de mes collègues non spécialistes des données. La préparation du rapport mensuel m'a aussi permis de renforcer mes compétences en communication de données visuelles.
+## ✅ Résultats obtenus
+
+- Amélioration de la lisibilité des KPI mensuels
+- Aide à la décision plus rapide pour la direction marketing
+- Tableau de bord facilement réutilisable et actualisable
+- Renforcement de l’autonomie des équipes non techniques face aux données
+
+---
+
+## 🔍 Aperçu
+
+> Ce projet démontre ma capacité à transformer des données brutes en analyses concrètes à forte valeur ajoutée pour le pilotage stratégique d’une activité e-commerce.
+
+---
+
+*Réalisé dans un contexte professionnel simulé dans le cadre de ma formation, avec un rôle opérationnel équivalent à celui d’un Data Analyst en entreprise.*
