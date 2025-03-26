@@ -1,5 +1,3 @@
-# ANALYSE-VENTES-ECOMMERCE-LGM
-
 ## Aperçu de l'entreprise
 
 ![Aperçu du site web](images/Capture_projet2.PNG)
